@@ -1,5 +1,5 @@
 # Readme
-A blog about electronic device.
+A brief introduction to electronic device.
 
 Contents:
 - [第一章：算术逻辑运算](./第一章：算术逻辑运算.md)
