@@ -1,5 +1,5 @@
 # Readme
-A brief introduction to Electronic Device.
+A brief introduction to electronic device.
 
 小四门儿：
 - [第一章：算术逻辑操作](./chapter-1.md)
