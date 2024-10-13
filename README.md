@@ -1,6 +1,7 @@
 # Readme
 A brief introduction to electronic device.
 
+### Contents
 小四门儿：
 - [第一章：算术逻辑操作](./第一章：算术逻辑操作.md)
 - [第二章：编译和解释](./第二章：编译和解释.md)
@@ -10,7 +11,7 @@ A brief introduction to electronic device.
 - [第六章：通用处理系统](./第六章：通用处理系统.md)
 - [第七章：网络](./第七章：网络.md)
 
-Credits:
+### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
 - Data Structures and Algorithm Analysis in Java, Third Edition
 - Design Patterns: Elements of Reusable Object-Oriented Software
