@@ -4,13 +4,13 @@ A brief introduction to electronic device.
 ### Contents
 
 小四门儿：
-- [第一章：算术逻辑操作](./第一章：算术逻辑操作.md)
-- [第二章：编译和解释](./第二章：编译和解释.md)
-- [第三章：数据结构和算法](./第三章：数据结构和算法.md)
-- [第四章：元素和设计模式](./第四章：元素和设计模式.md)
-- [第五章：专用处理系统](./第五章：专用处理系统.md)
-- [第六章：通用处理系统](./第六章：通用处理系统.md)
-- [第七章：网络](./第七章：网络.md)
+- [第一章：算术逻辑操作](./chapter-1.md)
+- [第二章：编译和解释](./chapter-2.md)
+- [第三章：数据结构和算法](./chapter-3.md)
+- [第四章：元素和设计模式](./chapter-4.md)
+- [第五章：专用处理系统](./chapter-5.md)
+- [第六章：通用处理系统](./chapter-6.md)
+- [第七章：网络](./chapter-7.md)
 
 ### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
