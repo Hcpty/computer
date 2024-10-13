@@ -1,7 +1,7 @@
 # Readme
 A brief introduction to electronic device.
 
-Contents:
+小四门：
 - [第一章：算术逻辑操作](./第一章：算术逻辑操作.md)
 - [第二章：编译和解释](./第二章：编译和解释.md)
 - [第三章：专用处理系统](./第三章：专用处理系统.md)
