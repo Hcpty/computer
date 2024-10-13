@@ -10,7 +10,7 @@ A brief introduction to electronic device.
 - [第六章：通用处理系统](./第六章：通用处理系统.md)
 - [第七章：网络](./第七章：网络.md)
 
-### Credits
+Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
 - Data Structures and Algorithm Analysis in Java, Third Edition
 - Design Patterns: Elements of Reusable Object-Oriented Software
