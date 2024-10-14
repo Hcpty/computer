@@ -6,8 +6,8 @@ A brief introduction to electronic device.
 - [第二章：物理机、解释器和虚拟机](./chapter-2.md)
 - [第三章：数据结构和算法](./chapter-3.md)
 - [第四章：元素和设计模式](./chapter-4.md)
-- [第五章：专用处理系统](./chapter-5.md)
-- [第六章：通用处理系统](./chapter-6.md)
+- [第五章：专用设备](./chapter-5.md)
+- [第六章：通用设备](./chapter-6.md)
 - [第七章：网络](./chapter-7.md)
 
 ### Credits
