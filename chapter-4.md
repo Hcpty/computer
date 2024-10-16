@@ -3,7 +3,7 @@
 - Builder
 - Prototype
 - Singleton
-- Adaptor
+- Adapter
 - Bridge
 - Composite
 - Decorator
