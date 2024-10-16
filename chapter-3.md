@@ -17,6 +17,7 @@
 ### 查找与关键字匹配的元素
 - Binary Search Tree
 - AVL Tree
+- B-Tree
 - Splay Tree
 - Red-Black Tree
 - Treap
