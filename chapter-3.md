@@ -4,7 +4,6 @@
 - List
 - Stack
 - Queue
-- Circular Queue
 - Deque
 - Binary Heap
 - Leftist Heap
