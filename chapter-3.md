@@ -14,7 +14,7 @@
 - Quadratic Probing Hash Table
 - Cuckoo Hash Table
 
-### 查找和关键字匹配的元素
+### 查找关键字匹配的元素
 - Binary Search Tree
 - AVL Tree
 - Splay Tree
