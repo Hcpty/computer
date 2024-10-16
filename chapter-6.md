@@ -2,5 +2,5 @@
 - CU
 - ALU
 - Registers
-- MMU, Page Table and RAM
+- MMU, TLB and RAM
 - ROM, Interrupt Handlers and Apps
