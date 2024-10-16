@@ -9,6 +9,7 @@
 - Binary Heap
 - Leftist Heap
 - Binomial Queue
+- Fibonacci Heap
 - Pairing Heap
 - Separate Chaining Hash Table
 - Quadratic Probing Hash Table
@@ -18,6 +19,7 @@
 - Binary Search Tree
 - AVL Tree
 - B-Tree
+- B+ Tree
 - Splay Tree
 - Red-Black Tree
 - Treap
@@ -25,7 +27,13 @@
 
 ### 对集合中的元素进行排序
 - Insertion Sort
+- Bubble Sort
+- Selection Sort
 - Shell Sort
 - Heap Sort
 - Merge Sort
 - Quick Sort
+- Bucket Sort
+- Radix Sort
+- Counting Sort
+- External Merge Sort
