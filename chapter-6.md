@@ -2,6 +2,5 @@
 - CU
 - ALU
 - Registers
-- RAM
-- ROM, Interrupt Handlers, MMU and Page Table
-- Disks and Apps
+- MMU, Page Table and RAM
+- ROM, Interrupt Handlers and Apps
