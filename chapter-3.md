@@ -1,5 +1,4 @@
 # 数据结构和算法
-
-### 根据关键字获取元素能够达到O(1)命中的Hash Table
-
-### 用在排队系统中的Priority Queue
+- 根据关键字能够O(1)命中元素的Hash Table
+- 用在常规索引系统中的Search Tree
+- 用在常规排队系统中的Priority Queue
