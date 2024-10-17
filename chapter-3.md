@@ -1,6 +1,6 @@
 # 数据结构和算法
 
-### 获取指定位置上的元素
+### 获取给定位置上的元素
 - List
 - Stack
 - Queue
@@ -15,7 +15,7 @@
 - Quadratic Probing Hash Table
 - Cuckoo Hash Table
 
-### 查找与关键字匹配的元素
+### 查找与关键字相匹配的元素
 - Binary Search Tree
 - AVL Tree
 - B-Tree
