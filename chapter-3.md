@@ -15,7 +15,7 @@
 - Quadratic Probing Hash Table
 - Cuckoo Hash Table
 
-### 查找与关键字相匹配的元素
+### 在集合中查找与关键字相匹配的元素
 - Binary Search Tree
 - AVL Tree
 - B-Tree
@@ -25,7 +25,7 @@
 - Treap
 - K-D Tree
 
-### 对元素进行排序
+### 对集合中的元素进行排序
 - Insertion Sort
 - Bubble Sort
 - Selection Sort
