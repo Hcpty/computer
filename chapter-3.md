@@ -25,7 +25,7 @@
 - Treap
 - K-D Tree
 
-### 对集合中的元素进行排序
+### 对元素进行排序
 - Insertion Sort
 - Bubble Sort
 - Selection Sort
