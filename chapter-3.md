@@ -1,6 +1,6 @@
 # 数据结构和算法
 
-### Relational Database
+### Relational Database System
 - Storing
   - Table
 - Indexing
