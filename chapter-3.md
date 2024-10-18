@@ -12,6 +12,6 @@
 ### Sorting
 - Sorting Algorithm
 
-### Searching
+### Text Searching
 
 ### Routing
