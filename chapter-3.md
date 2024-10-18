@@ -19,7 +19,7 @@
   - On Disk Sorting Algorithm
 
 ### Key-Value Database System
-- Storing (Vary from one to another)
+- Storing (Vary from each other)
 - Indexing
   - Hash Table
 - Sorting (Similar to Relational Database System)
