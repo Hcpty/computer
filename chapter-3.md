@@ -4,14 +4,14 @@
 
 ### Relational Database
 
-##### 存储
+##### Storing
 - Table
 
-##### 索引
+##### Indexing
 - Hash Tables
 - Search Trees
 
-##### 排序算法
+##### Sorting
 - In Memory Sorting Algorithms
 - On Disk Sorting Algorithms
 
