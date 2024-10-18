@@ -1,6 +1,7 @@
 # 数据结构和算法
 
 ### File System
+- Inode
 
 ### Relational Database
 - Storing
