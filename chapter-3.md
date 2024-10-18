@@ -18,3 +18,4 @@
 ### Search Engine
 
 ### Queueing System
+- Priority Queue
