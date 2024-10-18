@@ -3,17 +3,14 @@
 ### File System
 
 ### Relational Database
-
-##### Storing
-- Table
-
-##### Indexing
-- Hash Tables
-- Search Trees
-
-##### Sorting
-- In Memory Sorting Algorithms
-- On Disk Sorting Algorithms
+- Storing
+  - Table
+- Indexing
+  - Hash Tables
+  - Search Trees
+- Sorting
+  - In Memory Sorting Algorithms
+  - On Disk Sorting Algorithms
 
 ### Key-Value Database
 
