@@ -8,6 +8,7 @@
 - Table
 
 ##### 索引
+- Hash Tables
 - Search Trees
 
 ##### 排序算法
