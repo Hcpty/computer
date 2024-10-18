@@ -20,8 +20,12 @@
 
 ### Key-Value Database System
 - Storing (Vary from each other)
-- Indexing
-  - Hash Table
+- Indexing (Vary from each other, mainly Hash Table)
+- Sorting (Similar to Relational Database System)
+
+### Document Database System
+- Storing (Vary from each other)
+- Indexing (Vary from each other)
 - Sorting (Similar to Relational Database System)
 
 ### Queueing System
