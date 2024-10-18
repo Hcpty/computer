@@ -2,7 +2,7 @@
 
 ### Storing
 - Array
-- Linked List
+- Node
 
 ### Indexing
 - Hash Table
