@@ -6,8 +6,8 @@
 - Storing
   - Table
 - Indexing
-  - Search Tree
   - Hash Table
+  - Search Tree
 - Sorting
   - In Memory Sorting Algorithm
   - On Disk Sorting Algorithm
