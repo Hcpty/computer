@@ -18,5 +18,11 @@
   - In Memory Sorting Algorithm
   - On Disk Sorting Algorithm
 
+### Key-Value Database System
+- Storing (Vary from one to another)
+- Indexing
+  - Hash Table
+- Sorting (Similar to Relational Database System)
+
 ### Queueing System
 - Priority Queue
