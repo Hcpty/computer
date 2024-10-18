@@ -1,11 +1,13 @@
 # 数据结构和算法
 
-### 存储
+### Relational Database
+
+##### 存储
 - Table
 
-### 索引
+##### 索引
 - Search Tree
-- Hash Table
 
-### 排序算法
-- Heapsort
+##### 排序算法
+- In Memory Sorting
+- On Disk Sorting
