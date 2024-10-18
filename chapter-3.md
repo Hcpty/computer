@@ -10,5 +10,4 @@
 - Search Tree
 
 ### Sorting
-- In Memory Sorting Algorithm
-- On Disk Sorting Algorithm
+- Sorting Algorithm
