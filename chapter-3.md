@@ -5,7 +5,8 @@
   - Block
 - Indexing
   - Inode
-- Sorting (Similar to Relational Database System)
+- Sorting
+  - In Memory Sorting Algorithm
 
 ### Relational Database System
 - Storing
