@@ -6,11 +6,11 @@
 - Storing
   - Table
 - Indexing
-  - Hash Tables
-  - Search Trees
+  - Search Tree
+  - Hash Table
 - Sorting
-  - In Memory Sorting Algorithms
-  - On Disk Sorting Algorithms
+  - In Memory Sorting Algorithm
+  - On Disk Sorting Algorithm
 
 ### Key-Value Database
 
