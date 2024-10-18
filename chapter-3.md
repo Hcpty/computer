@@ -7,8 +7,8 @@
   - Table
 - Indexing
   - Hash Table
-  - Skip List
   - Search Tree
+  - Skip List
 - Sorting
   - In Memory Sorting Algorithm
   - On Disk Sorting Algorithm
