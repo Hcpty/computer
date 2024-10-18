@@ -6,8 +6,8 @@
 - Table
 
 ##### 索引
-- Search Tree
+- Search Trees
 
 ##### 排序算法
-- In Memory Sorting
-- On Disk Sorting
+- In Memory Sorting Algorithms
+- On Disk Sorting Algorithms
