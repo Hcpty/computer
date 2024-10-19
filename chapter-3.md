@@ -9,9 +9,9 @@
 - Skip List
 - Search Tree
 
-### Sorting
-- Sorting Algorithm
-
 ### Full-Text Indexing
 
 ### Full-Text Searching
+
+### Sorting
+- Sorting Algorithm
