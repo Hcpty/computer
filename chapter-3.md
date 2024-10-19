@@ -14,4 +14,4 @@
 ### Sorting
 - Sorting Algorithm
 
-### Shorest Path Finding
+### Shortest Path Finding
