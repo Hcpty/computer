@@ -1,7 +1,7 @@
 # Readme
-My curiosity.
+My occupation.
 
-### 我的好奇
+### 我的职业
 - [第一章：算术逻辑操作](./chapter-1.md)
 - [第二章：编译](./chapter-2.md)
 - [第三章：数据结构和算法](./chapter-3.md)
