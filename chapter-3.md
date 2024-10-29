@@ -15,3 +15,4 @@
 - Sorting Algorithm
 
 ### Path Finding
+- Dijkstra's Algorithm
