@@ -10,6 +10,7 @@
 - Search Tree
 
 ### Full-Text Indexing
+- Inverted Index
 
 ### Sorting
 - Sorting Algorithm
