@@ -13,7 +13,7 @@
 - Inverted Index
 
 ### Numeric Sorting
-- Sorting Algorithm
+- Numeric Sorting Algorithm
 
 ### Path Finding
 - Dijkstra's Algorithm
