@@ -5,8 +5,8 @@
 - Node
 
 ### Equality Indexing
-- Hash Table
-- Skip List and Search Tree
+- Hash Tables
+- Skip List and Search Trees
 
 ### Full-Text Indexing
 - Inverted Index
