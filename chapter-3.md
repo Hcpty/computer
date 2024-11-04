@@ -6,8 +6,7 @@
 
 ### Equality Indexing
 - Hash Table
-- Skip List
-- Search Tree
+- Skip List and Search Tree
 
 ### Full-Text Indexing
 - Inverted Index
