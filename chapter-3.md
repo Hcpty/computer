@@ -4,7 +4,7 @@
 - Array
 - Node
 
-### Indexing
+### Equality Indexing
 - Hash Table
 - Skip List
 - Search Tree
@@ -12,7 +12,7 @@
 ### Full-Text Indexing
 - Inverted Index
 
-### Sorting
+### Numeric Sorting
 - Sorting Algorithm
 
 ### Path Finding
