@@ -29,5 +29,5 @@
 - Visitor
 
 ### See Also
-- [Object Composition, Inheritance and Overloading - Hcpty](https://github.com/Hcpty/object-composition-inheritance-and-overloading)
 - [Interfaces and Elements - Hcpty](https://github.com/Hcpty/interfaces-and-elements)
+- [Object Composition, Inheritance and Overloading - Hcpty](https://github.com/Hcpty/object-composition-inheritance-and-overloading)
