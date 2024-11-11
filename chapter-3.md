@@ -18,4 +18,4 @@
 - Dijkstra's Algorithm
 
 ### See Also
-- [Array-Based Data Structure and Node-Based Data Structure - Hcpty](https://github.com/Hcpty/array-based-data-structure-and-node-based-data-structure)
+- [Array-Based Data Structures and Node-Based Data Structures - Hcpty](https://github.com/Hcpty/array-based-data-structures-and-node-based-data-structures)
