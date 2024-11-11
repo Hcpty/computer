@@ -27,3 +27,6 @@
 - Strategy
 - Template Method
 - Visitor
+
+### See Also
+- [Object Composition, Inheritance and Overloading - Hcpty](https://github.com/Hcpty/object-composition-inheritance-and-overloading)
