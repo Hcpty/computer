@@ -29,5 +29,5 @@
 - Visitor
 
 ### See Also
-- [Element Interface and Element Implementation - Hcpty](https://github.com/Hcpty/element-interface-and-element-implementation)
+- [Element Interfaces and Element Implementations - Hcpty](https://github.com/Hcpty/element-interfaces-and-element-implementations)
 - [Object Composition, Inheritance and Overloading - Hcpty](https://github.com/Hcpty/object-composition-inheritance-and-overloading)
