@@ -3,4 +3,4 @@
 - ALU
 - Registers
 - RAM
-- ROM and [Interrupt Handlers](https://github.com/Hcpty/interrupt-handling)
+- ROM and Interrupt Handlers
