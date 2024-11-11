@@ -2,5 +2,5 @@
 - CU
 - ALU
 - Registers
-- [MMU, Page Tables](https://github.com/Hcpty/byte-addressing) and RAM
+- MMU, Page Tables and RAM
 - ROM, Interrupt Handlers and Apps
