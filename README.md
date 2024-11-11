@@ -13,5 +13,5 @@ A note about Computer.
 ### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
 - Data Structures and Algorithm Analysis in Java, Third Edition
-- Design Patterns: Elements of Reusable Object-Oriented Software
+- Design Patterns: Elements of Reusable Object-Oriented Software, First Edition
 - Computer Networking: A Top-Down Approach, Eighth Edition
