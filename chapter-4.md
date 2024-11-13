@@ -1,12 +1,12 @@
 # 元素和设计模式
 
-### 创建型
+## 创建型
 - Factory
 - Builder
 - Prototype
 - Singleton
 
-### 结构型
+## 结构型
 - Adapter
 - Bridge
 - Composite
@@ -15,7 +15,7 @@
 - Flyweight
 - Proxy
 
-### 行为型
+## 行为型
 - Chain of Responsibility
 - Command
 - Interpreter
@@ -28,6 +28,6 @@
 - Template Method
 - Visitor
 
-### See Also
+## See Also
 - [Element Interfaces and Element Implementations - Hcpty](https://github.com/Hcpty/element-interfaces-and-element-implementations)
 - [Object Composition, Class Inheritance and Overloading - Hcpty](https://github.com/Hcpty/object-composition-class-inheritance-and-overloading)
