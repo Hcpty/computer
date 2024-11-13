@@ -1,21 +1,21 @@
 # 数据结构和算法
 
-### Storing
+## Storing
 - Array
 - Node
 
-### Equality Indexing
+## Equality Indexing
 - Hash Tables
 - Skip List and Search Trees
 
-### Full-Text Indexing
+## Full-Text Indexing
 - Inverted Index
 
-### Numeric Sorting
+## Numeric Sorting
 - Numeric Sorting Algorithms
 
-### Path Finding
+## Path Finding
 - Dijkstra's Algorithm
 
-### See Also
+## See Also
 - [Array-Based Data Structures and Node-Based Data Structures - Hcpty](https://github.com/Hcpty/array-based-data-structures-and-node-based-data-structures)
