@@ -19,3 +19,6 @@
 - Data Structures and Algorithm Analysis in Java, Third Edition - Mark Allen Weiss
 - Design Patterns: Elements of Reusable Object-Oriented Software, First Edition - Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
 - Computer Networking: A Top-Down Approach, Eighth Edition - James F. Kurose and Keith W. Ross
+
+## See Also
+- [Philosophy - Hcpty](https://github.com/Hcpty/philosophy)
