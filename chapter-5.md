@@ -10,4 +10,4 @@
 
 ## See also
 
-- [Interrupt Handling - Hcpty](https://github.com/Hcpty/interrupt-handling)
+- [Interrupt handling - Hcpty](https://github.com/Hcpty/interrupt-handling)
