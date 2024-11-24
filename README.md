@@ -1,18 +1,18 @@
 # 计算机
 
-## [算术逻辑操作](./chapter-1.md)
+## [算术逻辑操作](./chapter1.md)
 
-## [编译](./chapter-2.md)
+## [编译](./chapter2.md)
 
-## [数据结构和算法](./chapter-3.md)
+## [数据结构和算法](./chapter3.md)
 
-## [元素和设计模式](./chapter-4.md)
+## [元素和设计模式](./chapter4.md)
 
-## [专用处理系统](./chapter-5.md)
+## [专用处理系统](./chapter5.md)
 
-## [通用处理系统](./chapter-6.md)
+## [通用处理系统](./chapter6.md)
 
-## [网络](./chapter-7.md)
+## [网络](./chapter7.md)
 
 ## References
 
