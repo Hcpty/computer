@@ -5,23 +5,23 @@
 - Array
 - Node
 
-## Equality Indexing
+## Equality indexing
 
-- Hash Tables
-- Skip List and Search Trees
+- Hash tables
+- Skip lists and search trees
 
-## Full-Text Indexing
+## Full-text indexing
 
-- Inverted Index
+- Inverted index
 
-## Numeric Sorting
+## Numeric sorting
 
-- Numeric Sorting Algorithms
+- Numeric sorting algorithms
 
-## Path Finding
+## Path finding
 
 - Dijkstra's Algorithm
 
-## See Also
+## See also
 
 - [Array-Based Data Structure and Node-Based Data Structure - Hcpty](https://github.com/Hcpty/array-based-data-structure-and-node-based-data-structure)
