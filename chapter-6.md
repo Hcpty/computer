@@ -5,10 +5,10 @@
 - CU
 - ALU
 - Registers
-- MMU, Page Tables and RAM
-- ROM, Interrupt Handlers and Apps
+- MMU, page tables and RAM
+- ROM, interrupt handlers and apps
 
-## See Also
+## See also
 
 - [Byte Addressing - Hcpty](https://github.com/Hcpty/byte-addressing)
 - [Interrupt Handling - Hcpty](https://github.com/Hcpty/interrupt-handling)
