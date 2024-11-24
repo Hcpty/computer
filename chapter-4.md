@@ -33,5 +33,5 @@
 
 ## See also
 
-- [Element Interface and Element Implementation - Hcpty](https://github.com/Hcpty/element-interface-and-element-implementation)
-- [Object Composition, Class Inheritance and Overloading - Hcpty](https://github.com/Hcpty/object-composition-class-inheritance-and-overloading)
+- [Element interface and element implementation - Hcpty](https://github.com/Hcpty/element-interface-and-element-implementation)
+- [Object composition, class inheritance and class overloading - Hcpty](https://github.com/Hcpty/object-composition-class-inheritance-and-class-overloading)
