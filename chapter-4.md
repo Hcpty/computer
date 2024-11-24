@@ -19,7 +19,7 @@
 
 ## 行为型
 
-- Chain of Responsibility
+- Chain of responsibility
 - Command
 - Interpreter
 - Iterator
@@ -28,10 +28,10 @@
 - Observer
 - State
 - Strategy
-- Template Method
+- Template method
 - Visitor
 
-## See Also
+## See also
 
 - [Element Interface and Element Implementation - Hcpty](https://github.com/Hcpty/element-interface-and-element-implementation)
 - [Object Composition, Class Inheritance and Overloading - Hcpty](https://github.com/Hcpty/object-composition-class-inheritance-and-overloading)
