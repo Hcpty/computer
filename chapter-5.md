@@ -6,8 +6,8 @@
 - ALU
 - Registers
 - RAM
-- ROM and Interrupt Handlers
+- ROM and interrupt handlers
 
-## See Also
+## See also
 
 - [Interrupt Handling - Hcpty](https://github.com/Hcpty/interrupt-handling)
