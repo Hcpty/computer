@@ -24,4 +24,4 @@
 
 ## See also
 
-- [Array-Based Data Structure and Node-Based Data Structure - Hcpty](https://github.com/Hcpty/array-based-data-structure-and-node-based-data-structure)
+- [Array-based data structure and node-based data structure - Hcpty](https://github.com/Hcpty/array-based-data-structure-and-node-based-data-structure)
