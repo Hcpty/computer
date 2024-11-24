@@ -20,7 +20,7 @@
 
 ## Path finding
 
-- Dijkstra's Algorithm
+- Dijkstra's algorithm
 
 ## See also
 
