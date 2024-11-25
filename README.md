@@ -79,3 +79,12 @@
 - Data Structures and Algorithm Analysis in Java, Third Edition - Mark Allen Weiss
 - Design Patterns: Elements of Reusable Object-Oriented Software, First Edition - Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
 - Computer Networking: A Top-Down Approach, Eighth Edition - James F. Kurose and Keith W. Ross
+
+## See also
+
+- [Array-based data structure and node-based data structure - Hcpty](https://github.com/Hcpty/array-based-data-structure-and-node-based-data-structure)
+- [Element interface and element implementation - Hcpty](https://github.com/Hcpty/element-interface-and-element-implementation)
+- [Object composition, class inheritance and class overloading - Hcpty](https://github.com/Hcpty/object-composition-class-inheritance-and-class-overloading)
+- [Interrupt handling - Hcpty](https://github.com/Hcpty/interrupt-handling)
+- [Byte addressing - Hcpty](https://github.com/Hcpty/byte-addressing)
+- [Multi-threaded programming and event-driven programming - Hcpty](https://github.com/Hcpty/multi-threaded-programming-and-event-driven-programming)
