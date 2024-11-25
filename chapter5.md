@@ -2,9 +2,7 @@
 
 ## 专用处理系统
 
-- CU
-- ALU
-- Registers
+- CU, ALU and registers
 - RAM
 - ROM and interrupt handlers
 
