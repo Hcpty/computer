@@ -1,4 +1,4 @@
-# Computer
+# Computer science
 
 ## 算术逻辑操作
 
