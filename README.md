@@ -10,7 +10,7 @@
 - 把汇编语言程序编译成机器语言程序
 - 把高级语言程序编译成汇编语言程序
 
-## 数据结构和算法[[1]](./appendix/array-based-data-structure-and-node-based-data-structure.md)
+## 数据结构和算法[[1]](./appendices/array-based-data-structure-and-node-based-data-structure.md)
 
 - Storing
   - Array
@@ -25,7 +25,7 @@
 - Path finding
   - Dijkstra's algorithm
 
-## 元素和设计模式[[1]](./appendix/element-interface-and-element-implementation.md)[[2]](./appendix/object-composition-class-inheritance-and-class-overloading.md)
+## 元素和设计模式[[1]](./appendices/element-interface-and-element-implementation.md)[[2]](./appendices/object-composition-class-inheritance-and-class-overloading.md)
 
 - 创建型
   - Factory
@@ -59,7 +59,7 @@
 - RAM
 - ROM and interrupt handlers
 
-## 通用处理系统[[1]](./appendix/byte-addressing.md)[[2]](./appendix/interrupt-handling.md)[[3]](./appendix/multi-threaded-programming-and-event-driven-programming.md)
+## 通用处理系统[[1]](./appendices/byte-addressing.md)[[2]](./appendices/interrupt-handling.md)[[3]](./appendices/multi-threaded-programming-and-event-driven-programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
