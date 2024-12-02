@@ -10,7 +10,7 @@
 - 把汇编语言程序编译成机器语言程序
 - 把高级语言程序编译成汇编语言程序
 
-## 数据结构和算法
+## 数据结构和算法[[1]](./appendix/array-based-data-structure-and-node-based-data-structure.md)
 
 - Storing
   - Array
@@ -25,7 +25,7 @@
 - Path finding
   - Dijkstra's algorithm
 
-## 元素和设计模式
+## 元素和设计模式[[1]](./appendix/element-interface-and-element-implementation.md)[[2]](./appendix/object-composition-class-inheritance-and-class-overloading.md)
 
 - 创建型
   - Factory
@@ -59,8 +59,7 @@
 - RAM
 - ROM and interrupt handlers
 
-## 通用处理系统
-
+## 通用处理系统[[1]](./appendix/byte-addressing.md)[2](./appendix/interrupt-handling.md)[[3]](./appendix/multi-threaded-programming-and-event-driven-programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
@@ -79,12 +78,3 @@
 - Data Structures and Algorithm Analysis in Java, Third Edition - Mark Allen Weiss
 - Design Patterns: Elements of Reusable Object-Oriented Software, First Edition - Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
 - Computer Networking: A Top-Down Approach, Eighth Edition - James F. Kurose and Keith W. Ross
-
-## See also
-
-- [Array-based data structure and node-based data structure - Hcpty](https://github.com/Hcpty/array-based-data-structure-and-node-based-data-structure)
-- [Element interface and element implementation - Hcpty](https://github.com/Hcpty/element-interface-and-element-implementation)
-- [Object composition, class inheritance and class overloading - Hcpty](https://github.com/Hcpty/object-composition-class-inheritance-and-class-overloading)
-- [Byte addressing - Hcpty](https://github.com/Hcpty/byte-addressing)
-- [Interrupt handling - Hcpty](https://github.com/Hcpty/interrupt-handling)
-- [Multi-threaded programming and event-driven programming - Hcpty](https://github.com/Hcpty/multi-threaded-programming-and-event-driven-programming)
