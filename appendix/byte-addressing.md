@@ -26,4 +26,4 @@
 字节的物理地址 = 该字节所在的页的物理地址 + 该字节在该页中的偏移字节数
 ```
 
-借助该计算公式，MMU (Memory Management Unit) 可以执行从地址到物理地址的翻译。
+借助该计算公式，Memory Management Unit (MMU) 可以执行从地址到物理地址的翻译。
