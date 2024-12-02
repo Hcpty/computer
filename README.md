@@ -1,4 +1,4 @@
-# Hcpty computer science
+# Hcpty Computer Science Notes
 
 ## 算术逻辑操作
 
