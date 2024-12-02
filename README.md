@@ -1,4 +1,4 @@
-# 计算机科学
+# Hcpty computer science
 
 ## 算术逻辑操作
 
