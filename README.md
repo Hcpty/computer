@@ -1,6 +1,6 @@
 # Hcpty's Computer Science Notes
 
-## 算术和逻辑操作
+## 算术操作和逻辑操作
 
 - 算术操作
 - 逻辑操作
