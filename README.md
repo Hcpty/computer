@@ -53,7 +53,7 @@
   - Template method
   - Visitor
 
-## 专用处理系统
+## 专用处理系统[[1]](./appendices/interrupt-handling.md)
 
 - CU, ALU and registers
 - RAM
