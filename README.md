@@ -1,4 +1,4 @@
-# Computer Science Notes
+# 计算机科学笔记
 
 ## 算术操作和逻辑操作
 
