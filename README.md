@@ -14,7 +14,7 @@
 
 - Storing
   - Array
-  - Node
+  - Chain
 - Equality indexing
   - Array subscripting, hashing
   - Skip lists, search trees
