@@ -16,7 +16,7 @@
   - Array
   - Node
 - Equality indexing
-  - Array subscripting and hash tables
+  - Array subscripting and hashing
   - Skip list and search trees
 - Full-text indexing
   - Inverted index
