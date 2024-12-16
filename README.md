@@ -21,7 +21,7 @@
 - Full-text indexing
   - Inverted index
 - Numeric sorting
-  - Numeric sorting algorithms
+  - Various numeric sorting algorithms
 - Path finding
   - Dijkstra's algorithm
 
