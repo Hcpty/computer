@@ -17,7 +17,7 @@
   - Chain
 - Equality indexing
   - Array subscripting, hashing
-  - Skip lists, search trees
+  - Skip list, search tree
 - Full-text indexing
   - Inverted index
 - Numeric sorting
